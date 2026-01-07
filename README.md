@@ -43,11 +43,9 @@ LMICs face a dual challenge of reducing carbon emissions while sustaining econom
 - Final presentation and analytical interpretation
 - Policy-relevant insights for climate and fiscal governance
 
-## Authors
-Bandana Mallick  
-**Suchana Dey**  
-Sreyashi Datta  
-Shaily Barman  
+## Author
 
+**Suchana Dey**  
+  
 ## Keywords
 Panel Data, CO₂ Emissions, Renewable Energy, Government Spending, GMM, Climate Economics
